@@ -80,7 +80,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-    programmer_hash.unshift[:yukihiro_matsumoto]
+    adding_matz.unshift
+    programmer_hash.[:yukihiro_matsumoto]
 end
 
 def changing_alan
