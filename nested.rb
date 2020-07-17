@@ -81,7 +81,7 @@ def adding_matz
         }
      }
      
-    programmer_hash: program_hash = 
+    programmer_hash : program_hash = 
     program_hash[:yukihiro_matsumoto].unshift
 end
 
