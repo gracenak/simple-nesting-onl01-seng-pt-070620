@@ -81,8 +81,8 @@ def adding_matz
         }
      }
      
-    programmer_hash : program_hash = 
-    program_hash[:yukihiro_matsumoto].unshift
+    programmer_hash = {}
+    program_hash[:yukihiro_matsumoto].u
 end
 
 def changing_alan
